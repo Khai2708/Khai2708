@@ -1,7 +1,7 @@
 - 👋 Hi, I’m KHALILOV ASADBEK
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning deep learning, digital image progessing and machine learning.
-- 💞️ I’m looking to collaborate on projects related to cyber security
+- 👀 I’m interested in traveling, sharing experiences and helping others
+- 🌱 I’m currently learning data science, digital image processing, and machine learning.
+- 💞️ I’m looking to collaborate on projects related to AI
 - 📫 Contact me on email: khalilovasadbek27@gmail.com
 
 <!---
